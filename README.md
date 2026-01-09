@@ -1,1 +1,1 @@
-Commercial use of the physical design and logic protocol requires a separate commercial license.（本项目的物理设计与逻辑协议的商业用途，需另行获得商业授权。）
+"I tried to learn English, but it was too hard. I cannot change my IQ, so I decided to change English." （我学过英语，但英语太难了。我无法改变自己的智商，所以我决定改变英语。）
